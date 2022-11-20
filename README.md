@@ -28,7 +28,7 @@ Wg mnie jest przyjazna dla użytkownika: prosty panel obsługi, intuicyjna, prze
 
 _4 - Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_
 
-Generalnie aplikacja jest bardzo przyjazna, niemniej jednak kilka tipów się znalazło ;)
+Generalnie aplikacja jest bardzo przyjazna, niemniej jednak kilka uwag się znalazło ;)
 
 a) - strzałka cofania/wychodzenia z widoku mało widoczna w niektórych miejscach (czasem nachodzi na tekst albo zlewa się z tłem tak, że jej nie widać)
 

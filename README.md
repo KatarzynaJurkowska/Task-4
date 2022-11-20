@@ -2,7 +2,7 @@
 
 **Subtask 2 - Link poniżej**
 
-link do google
+https://drive.google.com/drive/folders/1OqfV3VRRHtxjN8hji9YaxbjOVngO_f5I
 
 
 **Subtask 3 - Do czego służy ta aplikacja?**

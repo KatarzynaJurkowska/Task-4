@@ -11,7 +11,8 @@ https://drive.google.com/drive/folders/1OqfV3VRRHtxjN8hji9YaxbjOVngO_f5I
 _1 - Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?_
 
 
-Aplikacja jest zbiorem nagrań, artykułów i ćwiczeń oddechowych.
+Aplikacja służy do wykonywania medytacji, odczytywania artykułów, wykonywania ćwiczeń oddechowych i słuchania muzyki określonego typu.
+Celem jest udostępnienie licznych nagrań i artykułów a tym samym uświadomienie i nauczenie użytkownika określonych "procesów" samodoskonalenia  
 
 
 _2 - Kto ma być użytkownikiem końcowym aplikacji?_
@@ -42,11 +43,15 @@ c) - przy wybieraniu dźwięków do ćwiczenia oddychania mógłby być słyszal
 
 ![obraz](https://user-images.githubusercontent.com/116674154/202903389-ee78ca14-2ea3-4538-8b83-6e8bbe33df86.png)
 
-d) - nie do końca wiem po co został umieszczony w profilu napis "ULUBIONE PRAKTYKI", skoro nie można tam nic dodać..
-
-![obraz](https://user-images.githubusercontent.com/116674154/202903888-a366328a-0d70-43ab-9e8d-8529506868f0.png)
-
 
 _5 - Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_
 
-Dla mnie proces jest bardzo podobny: działanie aplikacji sprawdzane jest na różnych urządzeniach, a stron www na różnych przeglądarkach. Responsywność, która wymaga od testującego dopilnowania prawidłowego skalowania strony do rozdzielczości na różne urządzenia. Uruchomiona aplikacja powinna zachować elementy wymagane do prawidłowego funkcjonowania zarówno na mniejszych urządzeniach mobilnych, jak i na desktopowych. Progresywność - niezależnie od tego, z jakiej przeglądarki i urządzenia korzystać będą użytkownicy, aplikacja nadal działa zgodnie z założeniami projektowymi. To samo dotyczy tzw. „linkowalności„, czyli możliwości udostępnienia treści za pomocą adresu URL. Błędy pojawiające się w warstwie wizualnej aplikacji, literówki, wyświetlane elementy, zdjęcia, miniatury i tekst w obu przypadkach musi być przetestowane i działać/wyglądać zgodnie z wymaganiami.
+Dla mnie proces jest bardzo podobny choć wydaje się, że testowanie aplikacji mobilnej jest bardziej wymagające ponieważ:
+- istnieje wiele czynników związanych z samym urządzeniem jak wersja oprogramowania, rozmiar ekranu czy ograniczona pojemność pamięci
+- interakcje z użytkownikiem, które odbywają się głównie za pośrednictwem ekranu dotykowego, gesty, orientacja ekranu
+- żywotność baterii i wydajność aplikacji (gdy bateria jest w pełni naładowana lub gdy jest niska)
+- responsywność, która wymaga od testującego dopilnowania prawidłowego skalowania strony do rozdzielczości na różne urządzenia
+- progresywność - niezależnie od tego, z jakiej przeglądarki i urządzenia korzystać będą użytkownicy, aplikacja nadal działa poprawnie
+- rodzajów urządzeń mobilnych jest dużo więcej niż przeglądarek internetowych stąd konieczność korzystania z emulatorów przy testowaniu
+
+Błędy pojawiające się w warstwie wizualnej aplikacji, literówki, wyświetlane elementy, zdjęcia, miniatury i tekst w obu przypadkach musi być przetestowane i działać zgodnie z wymaganiami.

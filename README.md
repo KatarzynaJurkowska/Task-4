@@ -1,6 +1,6 @@
 # Task-4
 
-**Subtask 2 - Link poniżej**
+**Subtask 1 i 2 - link poniżej**
 
 https://drive.google.com/drive/folders/1OqfV3VRRHtxjN8hji9YaxbjOVngO_f5I
 

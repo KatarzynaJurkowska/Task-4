@@ -24,22 +24,22 @@ Osoby zainteresowane tematyką medytacji, afirmacji i samorozwoju.
 _3 - Czy według Ciebie aplikacja jest user friendly?_
 
 
-Wg mnie jest przyjazna dla użytkownika: prosty panel obsługi, intuicyjna, przejrzysta grafika, dobrze widoczne przyciski, odpowiednia wielkość czcionki, przyjemna kolorystyka, stosunkowo szybko reaguje, nie wiesza się.
+Wg mnie aplikacja jest przyjazna dla użytkownika: prosty panel obsługi, intuicyjna, przejrzysta grafika, dobrze widoczne przyciski, odpowiednia wielkość czcionki, przyjemna kolorystyka, stosunkowo szybko reaguje, nie wiesza się.
 
 
 _4 - Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_
 
 Generalnie aplikacja jest bardzo przyjazna, niemniej jednak kilka uwag się znalazło ;)
 
-a) - strzałka cofania/wychodzenia z widoku mało widoczna w niektórych miejscach (czasem nachodzi na tekst albo zlewa się z tłem tak, że jej nie widać)
+a) strzałka cofania/wychodzenia z widoku mało widoczna w niektórych miejscach (czasem nachodzi na tekst albo zlewa się z tłem tak, że jej nie widać)
 
 ![obraz](https://user-images.githubusercontent.com/116674154/202903170-33b2d626-a3d4-4ed7-9fe0-b5cc6c302fbd.png)
 
-b) - grafika nie zachwyca - może lepiej wyglądałyby zdjęcia (ale to kwestia gustu)...
+b) grafika nie zachwyca - może lepiej wyglądałyby zdjęcia (ale to kwestia gustu)...
 
 ![obraz](https://user-images.githubusercontent.com/116674154/202903294-ac100365-b60f-496f-8d19-6b33ebcfd465.png)
 
-c) - przy wybieraniu dźwięków do ćwiczenia oddychania mógłby być słyszalny ten dźwięk (jak przy ustawianiu dźwięków w telefonie)
+c) przy wybieraniu dźwięków do ćwiczenia oddychania mógłby być słyszalny ten dźwięk (jak przy ustawianiu dźwięków w telefonie)
 
 ![obraz](https://user-images.githubusercontent.com/116674154/202903389-ee78ca14-2ea3-4538-8b83-6e8bbe33df86.png)
 
